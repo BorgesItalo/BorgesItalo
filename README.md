@@ -3,7 +3,7 @@
 - 🔭 Faço o uso do git como meio de estudo para praticar.
 - 🔭 Sou formado em Sistemas de Informação.
 - 🔭 Atualmente faço curso de back-end e front-end com um proposito de virar um full-stack.
-- ⚽ Gossto de praticar esportes como: futbol, natação, ciclismo e corrida.
+- ⚽ Gosto de praticar esportes como: futbol, natação, ciclismo e corrida.
 - 🍕 Gosto de cozinhar
 - 📚 Gosto de estudar leis como: D.C, D.A, D.P, D.P.P e as legislações (Sou concurseiro tambem)
 
