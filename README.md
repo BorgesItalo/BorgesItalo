@@ -1,4 +1,4 @@
-### Olá, eu sou o ITalo Borges Evangelista!
+### Olá, eu sou o Italo Borges Evangelista!
 
 - 🔭 Faço o uso do git como meio de estudo para praticar.
 - 🔭 Sou formado em Sistemas de Informação.
